@@ -34,9 +34,6 @@ Toggle date and day inclusion
 Preview rename plan before applying
 
 🧪 Example
-text
-Copy
-Edit
 Input folder: /home/user/Pictures/Vacation/
 Base name: TokyoTrip
 Include subfolders: yes
@@ -50,9 +47,6 @@ TokyoTrip_Shibuya_March_2025_002.jpg
 📦 Packaging
 To create a .exe for Windows users:
 
-bash
-Copy
-Edit
 pyinstaller --onefile renamer_cli.py
 ✅ Requirements
 Python 3.6+
